@@ -33,4 +33,4 @@ Building backend systems with Java/Spring Boot, designing cloud-native data pipe
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/pragati-narote) · [Email](mailto:narote.p@northeastern.edu) · [Portfolio](https://pragatinarote.me)
+📫 [LinkedIn_pragatinarote](https://www.linkedin.com/in/pragatinarote) · [narote.p@northeastern.edu](mailto:narote.p@northeastern.edu) · [pragati_narote.me](https://main.d331kj2f80yuhx.amplifyapp.com/)
