@@ -22,4 +22,4 @@ Building backend systems with Java/Spring Boot, designing REST APIs, working wit
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/pragati-narote) · [Email](mailto:pragatinarote11@gmail.com)
+📫 [LinkedIn_pragatinarote](https://www.linkedin.com/in/pragatinarote) · [narote.p@northeastern.edu](mailto:narote.p@northeastern.edu)
